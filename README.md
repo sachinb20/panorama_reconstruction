@@ -1,4 +1,4 @@
-# ECE276A Project 1: IMU Orientation Estimation & Panorama Generation
+# IMU Orientation Estimation & Panorama Generation
 
 ## Project Structure
 
